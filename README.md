@@ -10,6 +10,11 @@ You Need to login with your Phone-Number To Post a Listing.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Login
 ![log](https://user-images.githubusercontent.com/81489386/152794110-93253bc5-ed92-4043-b3be-f7e1a0bd0f5e.JPG)
-After Logging In =>
 # Add-Listing
 ![list](https://user-images.githubusercontent.com/81489386/152794437-64acf053-f07a-439a-87aa-e9322a7f2931.JPG)
+# View-Listing
+
+![toblur](https://user-images.githubusercontent.com/81489386/153593408-795346e7-a798-4f6f-9c18-efcfc99cbfbc.JPG)
+
+# Mobile-Listing
+![blur2](https://user-images.githubusercontent.com/81489386/153593427-a9fb8f71-8705-449f-9fea-53ca533bcc99.JPG)
