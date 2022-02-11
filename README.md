@@ -14,7 +14,9 @@ You Need to login with your Phone-Number To Post a Listing.
 ![list](https://user-images.githubusercontent.com/81489386/152794437-64acf053-f07a-439a-87aa-e9322a7f2931.JPG)
 # View-Listing
 
-![toblur](https://user-images.githubusercontent.com/81489386/153593408-795346e7-a798-4f6f-9c18-efcfc99cbfbc.JPG)
+![1](https://user-images.githubusercontent.com/81489386/153594617-5c704ead-a3ac-43cd-bfe9-c315d0e61e4d.png)
+
 
 # Mobile-Listing
-![blur2](https://user-images.githubusercontent.com/81489386/153593427-a9fb8f71-8705-449f-9fea-53ca533bcc99.JPG)
+
+![blur2 JPG](https://user-images.githubusercontent.com/81489386/153594635-8621b3fc-3783-47bc-baef-95bb98e8d331.png)
